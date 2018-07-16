@@ -1,0 +1,11 @@
+@import 'normalize.css';
+@font-face {
+	font-family: Delicious-Italic;
+	src: url(/Delicious-Italic.otf);
+}
+
+p {
+  font-size: xx-large;
+  color: blue;
+  font-family: Delicious-Italic, Helvetica, Arial, sans-serif;
+}
